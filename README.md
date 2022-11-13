@@ -5,9 +5,9 @@
 
 # Preview
 <img src="https://media.discordapp.net/attachments/1029409370913636392/1041186017320902728/image.png?width=450&height=410"></img>
-</div>
 
 # Features
+</div>
 ```markdown
 # Windows // Files
 - [1] Clear Temp Files
