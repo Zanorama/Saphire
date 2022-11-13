@@ -20,8 +20,8 @@
 - [6] Change IP
 # Miscellaneous
 - [7] Discord Webhook Spammer
-- [8] Start Notepad [I ran outta ideas]
-- [9] Start Command Prompt [I really ran outta ideas...]
+- [8] Start Notepad # [I ran outta ideas]
+- [9] Start Command Prompt # [I really ran outta ideas...]
 
 - [?] Info [Suck a fat cock]
 ```
